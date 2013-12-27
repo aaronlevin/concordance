@@ -17,5 +17,5 @@ In this solutino we take the most naive apporach. Split a sentance on `'.'` and 
 
 ### 2. Constant Memory using Iteratees
 
-In this solutino we assume that we're solving the concordance problem on a huge text file or other buffered input. We use pure functional `Iteratee`s, similar to a Free Monadic implementation of a function that steps through a computation in constant memory. There are several advantages to Iteratees (they are composable, use constant memory, and are fairly flexible) and disadvantages (they are complex and hard to use).
+In this solution we assume that we're solving the concordance problem on a huge text file or other buffered input. We use pure functional `Iteratee`s, similar to a Free Monadic implementation of a function that steps through a computation in constant memory. There are several advantages to Iteratees (they are composable, use constant memory, and are fairly flexible) and disadvantages (they are complex and hard to use).
 
