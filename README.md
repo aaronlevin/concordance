@@ -1,6 +1,6 @@
 # To Run
 
-`git clone https://github.com/weirdcanada/concordance.git ; ./sbt run`
+`git clone https://github.com/weirdcanada/concordance.git ; cd concordance ; ./sbt run`
 
 # About
 
